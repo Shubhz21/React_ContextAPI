@@ -1,0 +1,33 @@
+**Git Commands**
+
+inside the directory- git init
+
+git add filename...(to add file in the stage area)
+                                          ^
+git status                                |
+                                          |(same)
+git add filename or foldername/         <--
+                                          
+git commit -m "  "                      
+
+git push origin -u master
+
+
+git remote set-url origin _______---->to change origin
+
+git remote -v ----->to check origin
+
+git branch ---->to check branches list
+
+git branch --delete branchname----> to delete branch name
+
+git log --->to check previous commits
+
+git branch newbranchname --->to create new branch
+
+git pull origin master             -->  (for getting git files into folder from github)
+
+
+
+
+
